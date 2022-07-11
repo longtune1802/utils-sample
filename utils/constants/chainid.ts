@@ -1,0 +1,14 @@
+export const CHAIN_ID = {
+    ETHEREUM: 1,
+    ROPSTEN:3,
+    RINKERBY:4,
+    GOERLI:5,
+    KOVAN:6,
+    AVALANCHE: 43114,
+    FUJI: 43113,
+    MUMBAI: 80001,
+    AURORA:1313161554,
+    AURORABETA:1313161556,
+
+};
+
